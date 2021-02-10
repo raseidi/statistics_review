@@ -1,4 +1,4 @@
-# Repository containing reviews about statistic topics.
+# Repository for reviewing statistical topics.
 
 ## Content
 - [Probability](probability.ipynb)
