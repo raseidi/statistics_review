@@ -1,7 +1,7 @@
-# Repository containing reviews about statistic topics.
+# Repository reviewing statistic topics.
 
 ## Content
-- [Probability](probability.ipynb)
-- [Distributions](distributions.ipynb)
-- [Estimation]()
-- [Hypothesis Testing]()
+- [Probability](notebooks/probability.ipynb)
+- [Distributions](notebooks/distributions.ipynb)
+- Estimation (ToDo)
+- Hypothesis Testing (ToDo)
